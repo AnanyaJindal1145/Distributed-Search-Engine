@@ -1,4 +1,4 @@
-# Distributed Search Engine with Scalable Ranking Algorithms
+# Distributed Search Engine
 
 A scalable and fault-tolerant distributed search engine built using **Python**, **MapReduce-style architecture**, and **TCP/IP socket programming**, optimized for real-time web crawling, indexing, and retrieval with high efficiency.
 
